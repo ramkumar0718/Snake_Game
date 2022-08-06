@@ -1,5 +1,7 @@
-# SnakeGame
-Snake game in python,  
-Run this command on your terminal, if you got an error   
-pip install pygame &
-pip install random
+# Snake_Game :
+The snake game in python using pygame!  
+
+# Requirements :
+```
+pip install pygame
+```
